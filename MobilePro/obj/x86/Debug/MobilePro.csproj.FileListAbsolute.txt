@@ -1,0 +1,8 @@
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\MobilePro\MobilePro\bin\Debug\MobilePro.exe
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\MobilePro\MobilePro\bin\Debug\MobilePro.pdb
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\MobilePro\MobilePro\obj\x86\Debug\MobilePro.Form1.resources
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\MobilePro\MobilePro\obj\x86\Debug\MobilePro.Properties.Resources.resources
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\MobilePro\MobilePro\obj\x86\Debug\MobilePro.csproj.GenerateResource.Cache
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\MobilePro\MobilePro\obj\x86\Debug\MobilePro.exe
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\MobilePro\MobilePro\obj\x86\Debug\MobilePro.pdb
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\MobilePro\MobilePro\obj\x86\Debug\MobilePro.csprojResolveAssemblyReference.cache
